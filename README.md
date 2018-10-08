@@ -1,7 +1,7 @@
 # Login Stateful
-Login Stateful is a Dart 2 / Flutter (0.6) iOS and Android Login/SignUp App that uses a StatefulWidget.
+Login Stateful is a Dart 2 / Flutter (0.8) iOS and Android Login/SignUp App that uses a StatefulWidget.
 
-![](art/screenshot/login-03.png?raw=true)
+![](art/screenshot/login-04.png?raw=true)
 
 ### Contributing
 See [CONTRIBUTING](CONTRIBUTING.md).
